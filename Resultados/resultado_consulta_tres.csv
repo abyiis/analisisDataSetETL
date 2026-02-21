@@ -1,0 +1,4 @@
+tipo_velocidad,total_viajes,vel_minima,vel_promedio,vel_maxima,soc_consumido_promedio
+Lenta,601,27.00,28.46,29.75,21.93
+Moderada,1315,30.00,33.66,39.71,18.73
+Optima,364,40.04,42.54,45.69,22.58
